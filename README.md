@@ -6,11 +6,11 @@ Want to learn how to build this Quiz App step by step? Watch the full tutorial o
 
 ✨ Features
 
-Interactive Quiz: Users can solve MCQs one question at a time.
-Option Selection Validation: Users cannot proceed to the next question without selecting an option.
-Dynamic Scoring: Scores are calculated in real-time using a score state variable.
-Final Score Display: Once all questions are answered, users are presented with their final score.
-User-Friendly Interface: The application provides a smooth and intuitive interface for taking quizzes.
+1.Interactive Quiz: Users can solve MCQs one question at a time.
+2.Option Selection Validation: Users cannot proceed to the next question without selecting an option.
+3.Dynamic Scoring: Scores are calculated in real-time using a score state variable.
+4.Final Score Display: Once all questions are answered, users are presented with their final score.
+5.User-Friendly Interface: The application provides a smooth and intuitive interface for taking quizzes.
 
 🚀 How It Works
 
@@ -31,7 +31,9 @@ Once the user completes all questions, the application displays the final score 
 🛠️ Technologies Used
 
 ReactJS: Frontend framework for building the user interface.
+
 State Management: Managed using React's useState and useEffect hooks.
+
 CSS: For styling the application.
 
 <img width="2462" height="1266" alt="image" src="https://github.com/user-attachments/assets/c68bf833-afb4-4575-95f7-e1ec4a2c30d9" />
